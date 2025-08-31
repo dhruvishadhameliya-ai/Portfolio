@@ -1,4 +1,4 @@
-# Hi, I'm Dhruvi Shadhameliya 👋
+# Hi, I'm Dhruvisha dhameliya 👋
 
 I'm a passionate Flutter developer specializing in building cross-platform mobile apps.
 
