@@ -21,8 +21,7 @@ I'm a passionate Flutter developer specializing in building cross-platform mobil
 - Winner at XYZ Hackathon
 
 ## 📫 Contact
-- [Email](mailto:youremail@example.com)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
+- [Email](mailto:dhruvishadhameliya@gmail.com)
+- [LinkedIn](linkedin.com/in/dhruvisha-dhameliya-0a86ba259)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvishadhameliya-ai&show_icons=true)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=dhruvishadhameliya-ai&show_icons=true](https://github.com/dhruvishadhameliya-ai))
